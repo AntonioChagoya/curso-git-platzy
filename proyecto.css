@@ -12,3 +12,17 @@ header{
     color:white;
     padding: 1.2rem;
 }
+
+footer{
+    background-color: cadetblue ;
+    color:white;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    padding: 4rem;
+    width: 100%;
+}
+footer div{
+    width: 33%;
+    background:transparent
+}
